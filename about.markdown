@@ -12,4 +12,4 @@ A solo game developer on a journey from Newbie to Pro with the goal of creating 
 
 * Planning steps to release Yin and Yang in search of Harmony on iOS (Focus of April 2021)
 
-*Updated {{ page.last_modified_at | date: '%B %d, %Y' }}*
+*Updated March 12, 2021*
