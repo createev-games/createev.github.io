@@ -4,3 +4,4 @@
 
 layout: home
 ---
+A solo game developer on a journey from Newbie to Pro with the goal of creating mobile and cross-platform games.

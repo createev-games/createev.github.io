@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+A solo game developer on a journey from Newbie to Pro with the goal of creating mobile and cross-platform games.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## What I am doing now
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+* Learning how to make great characters, mobile game development in Unity and CI/CD 
 
+* Planning steps to release Yin and Yang in search of Harmony on iOS (Focus of April 2021)
 
-[jekyll-organization]: https://github.com/jekyll
+*Updated {{ page.last_modified_at | date: '%B %d, %Y' }}*
