@@ -26,6 +26,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://createev.games" # the base hostname & protocol for your site, e.g. http://example.com
 itchio_username: createev
 
+google_analytics: UA-192056904-2
+
 # Build settings
 theme: minima
 plugins:
