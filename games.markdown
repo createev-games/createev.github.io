@@ -3,6 +3,9 @@ layout: page
 title: Games
 permalink: /games/
 ---
+I develop some fun games using Unity engine, C#, and Adobe Illustrator.
+Ocasionally I participate in Game Jams and share results on itch.io.
+
 <ul>
   {% for game in site.games %}
     <li>
