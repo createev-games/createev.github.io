@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Andrey
+My name is Andrey.
 
 In my free time I develop Apps and Games, and compose Music. Occasionally I share my progress here.
 
