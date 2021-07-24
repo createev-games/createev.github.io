@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-A solo game developer on a journey from Newbie to Pro with the goal of creating mobile and cross-platform games.
+## Hi, I'm Andrey
+
+In my free time I write, develop Apps and Games, and compose Music. Occasionally I share my progress here.
+
+While I have a successful career in business this site is dedicated solely to "creative me" and my personal creative adventures and passions.
 
 ## What I am doing now
 
-* Learning how to make great characters, mobile game development in Unity and CI/CD 
+* Developing multi-currency Accounts app to manage personal finance
 
-* Planning steps to release Yin and Yang in search of Harmony on iOS (Focus of April 2021)
-
-*Updated March 12, 2021*
+*Updated July 24, 2021*
