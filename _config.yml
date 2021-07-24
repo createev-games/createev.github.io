@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: createev.games
-email: me@createev.games
+title: createev.me
+email: me@createev.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Fun cross-platform games
+  Cross-platform apps and games
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://createev.games" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://createev.me" # the base hostname & protocol for your site, e.g. http://example.com
 itchio_username: createev
 
 google_analytics: UA-192056904-2
