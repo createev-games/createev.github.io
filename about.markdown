@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-## Hi, I'm Andrey
+My name is Andrey
 
-In my free time I write, develop Apps and Games, and compose Music. Occasionally I share my progress here.
+In my free time I develop Apps and Games, and compose Music. Occasionally I share my progress here.
 
 While I have a successful career in business this site is dedicated solely to "creative me" and my personal creative adventures and passions.
 
