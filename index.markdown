@@ -7,6 +7,6 @@ layout: home
 
 Hi, I'm Andrey.
 
-I develop Apps and Games, and compose Music. Occasionally I share my progress here.
+I develop cross-platform Apps and Games using C#, Xamarin and Unity. Occasionally I share my progress here.
 
 While I have a successful career in business this site is dedicated solely to "creative me" and my personal creative adventures and passions.
