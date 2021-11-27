@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Andrey.
 
-In my free time I develop cross-platform Apps and Games using C#, Xamarin and Unity. Occasionally I share my progress here.
+In my free time I develop cross-platform Apps and Games using C#, Xamarin, Blazor and Unity. Occasionally I share my progress here.
 
 While I have a successful career in business this site is dedicated solely to "creative me" and my personal creative adventures and passions.
 
